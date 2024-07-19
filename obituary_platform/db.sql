@@ -1,0 +1,11 @@
+-- CREATE DATABASE obituary_platform
+-- CREATE TABLE obituaries (
+--     id INT AUTO_INCREMENT PRIMARY KEY,
+--     name VARCHAR(100) NOT NULL,
+--     date_of_birth DATE NOT NULL,
+--     date_of_death DATE NOT NULL,
+--     content TEXT NOT NULL,
+--     author VARCHAR(100) NOT NULL,
+--     submission_date DATETIME DEFAULT CURRENT_TIMESTAMP,
+--     slug VARCHAR(255) UNIQUE NOT NULL
+-- );
